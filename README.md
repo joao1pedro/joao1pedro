@@ -6,7 +6,7 @@
 
 ## I'm João Pedro
 - I live in :brazil:.
-- I'm a PID (Programa de Iniciação à Docência) scholarship at the Universidade Federal do Ceará.
+- I'm a PID (Programa de Iniciação à Docência) scholarship at the Federal University of Ceará.
 
 ## Contact me
 <div>
