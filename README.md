@@ -6,7 +6,6 @@
 
 ## I'm João Pedro
 - I live in :brazil:.
-- I'm a PID (Programa de Iniciação à Docência) scholarship at the Federal University of Ceará.
 
 ## Contact me
 <div>
@@ -30,6 +29,16 @@
 <img align = "center" alt = "language-python" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <a href = "https://www.postgresql.org/" target = "_blank">
 <img align = "center" alt = "language-sql" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<a href = "https://www.mysql.com/" target = "_blank">
+<img align = "center" alt = "language-mysql" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <a href = "https://www.kernel.org/" target = "_blank">
 <img align = "center" alt = "so-linux" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<a href = "https://www.arduino.cc/" target = "_blank">
+<img align = "center" alt = "arduino" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+<a href = "https://beagleboard.org" target = "_blank">
+<img align = "center" alt = "beaglebone" height = 30 width = 40 src = "https://beagleboard.org/static/images/logos/logo/beagleboard-compatible/beagleboard-compatible.svg">
+<a href = "https://www.vim.org/" target = "_blank">
+<img align = "center" alt = "vim" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+<a href = "https://code.visualstudio.com/" target = "_blank">
+<img align = "center" alt = "vscode" height = 30 width = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
